@@ -56,11 +56,11 @@
   "@enter_your_height":{
     "description": "hint text for height form in fourth pages"
   },
-  "enter_your_age" : "Enter your age",
+  "enter_your_age" : "Enter your birth date",
   "@enter_your_age":{
     "description": "ask user for age in fifth pages"
   },
-  "enter_age" : "Enter your current age",
+  "enter_age" : "Enter your birth date",
   "@enter_age":{
     "description": "hint text for age form in fifth pages"
   },

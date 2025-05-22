@@ -56,11 +56,11 @@
   "@enter_your_height":{
     "description": "teks petunjuk mengenai tinggi di halaman keempat"
   },
-  "enter_your_age" : "Masukan umurmu",
+  "enter_your_age" : "Masukan tanggal lahir mu",
   "@enter_your_age":{
     "description": "bertanya ke pengguna mengenai umur di halaman kelima "
   },
-  "enter_age" : "Masukan umur anda saat ini",
+  "enter_age" : "Masukan tanggal lahir mu",
   "@enter_age":{
     "description": "teks petunjuk untuk form umur di halaman kelima"
   },
