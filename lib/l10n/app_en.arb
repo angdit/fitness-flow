@@ -1,0 +1,856 @@
+{
+  "@@locale": "en",
+  "hi" : "hi",
+  "@hi":{
+      "description": "the greeting"
+  },    
+    "welcome" : "Welcome to",
+    "@welcome":{
+        "description": "the greeting in first pages"
+    },
+    "best_app" : "The best app for your health dan fitness",
+    "@best_app":{
+        "description": "second greeting in first pages"
+    },
+    "start" : "Start",
+    "@start":{
+        "description": "hint button in first pages"
+  },
+    "step" : "STEP",
+    "@step":{
+        "description": "Steps user to authenticate"
+  },
+  "steps" : "Steps",
+  "@steps":{
+      "description": "langkah pengguna untuk autentikasi"
+  }, 
+  "enter_name" : "Enter Your Name",
+  "@enter_name":{
+      "description": "Enter name in second page"
+  },
+  "please_enter_name" : "Please enter a name to continue",
+  "@please_enter_name":{
+    "description": "Please enter name in second pages"
+  },
+  "next" : "Next",
+  "@next":{
+    "description": "hint text for button next"
+  },
+  "validation_error_enter_name" : "This field cannot be empty",
+  "@validation_error_enter_name":{
+    "description": "validation text in enter name"
+  },
+  "enter_your_weight_now" : "Enter current body weight",
+  "@enter_your_weight_now":{
+      "description": "Enter user weight in third page"
+  },
+  "enter_your_weight_target" : "Enter your target weight",
+  "@enter_your_weight_target":{
+      "description": "Enter user weight now in third pages"
+  },
+  "what_is_your_height" : "What is your height?",
+  "@what_is_your_height":{
+    "description": "ask user for height in fourth pages"
+  },
+  "enter_your_height" : "Enter your current height",
+  "@enter_your_height":{
+    "description": "hint text for height form in fourth pages"
+  },
+  "enter_your_age" : "Enter your age",
+  "@enter_your_age":{
+    "description": "ask user for age in fifth pages"
+  },
+  "enter_age" : "Enter your current age",
+  "@enter_age":{
+    "description": "hint text for age form in fifth pages"
+  },
+  "which_one_are_you" : "Which one are you?",
+  "@which_one_are_you":{
+    "description": "greeting text for gender form in sixth pages"
+  },
+  "male" : "Male",
+  "@male":{
+    "description": "Male option for gender"
+  },
+  "women" : "Women",
+  "@women":{
+    "description": "Women option for gender"
+  },
+  "verification_text_for_gender" : "In order to provide you with a customization experience, we need to know your gender",
+  "@verification_text_for_gender":{
+    "description": "verification for gender"
+  },
+  "daily_physical_activities" : "Daily physical activity",
+  "@daily_physical_activities":{
+    "description": "first greetings in seven pages"
+  },
+  "how_often_do_activity_per_day" : "How often do you do physical activity per day",
+  "@how_often_do_activity_per_day":{
+    "description": "second greetings in seven pages"
+  },
+  "first_option_daily_activity" : "Very Light (light physical activity or no physical activity during the day)",
+  "@first_option_daily_activity":{
+    "description": "First option in seven pages"
+  },
+  "second_option_daily_activity" : "Light (light physical activity, such as walking or a little exercise, 1-3 days a week)",
+  "@second_option_daily_activity":{
+    "description": "Second option in seven pages"
+  },
+  "third_option_daily_activity" : "Moderate (moderate physical activity, e.g. exercising 3-5 days a week)",
+  "@third_option_daily_activity":{
+    "description": "Third option in seven pages"
+  },
+  "fourth_option_daily_activity" : "Heavy (high physical activity, such as exercising 6-7 days a week)",
+  "@fourth_option_daily_activity":{
+    "description": "Fourth option in seven pages"
+  },
+  "error_message_for_daily_activity_option" : "Please choose one of the physical activities.",
+  "@error_message_for_daily_activity_option":{
+    "description": "Error message in seven pages"
+  },
+  "you_are_ready" : "You are ready!",
+  "@you_are_ready":{
+    "description": "first greetings in eighth pages"
+  },
+  "greetings_in_get_started" : "Thank you for taking your time to create an account with us. Now here comes the fun part, let's explore the app.",
+  "@greetings_in_get_started":{
+    "description": "Second greetings in eighth pages"
+  },
+  "ready" : "Start",
+  "@ready":{
+    "description": "hint text button in eight pages"
+  },
+  "calorie" : "CALORIE",
+  "@calorie":{
+    "description": "Calorie text in home page"
+  },
+  "body_weight" : "BODY WEIGHT",
+  "@body_weight":{
+    "description": "body weight text in home page"
+  },
+  "exercise" : "EXERCISE",
+  "@exercise":{
+    "description": "body weight text in home page"
+  },
+  "from" : "from",
+  "@from":{
+    "description": "from text in home page"
+  },
+  "not_yet" : "Not yet",
+  "@not_yet":{
+    "description": "not yet text in home page"
+  },
+  "choose_exercise" : "choose exercise",
+  "@choose_exercise":{
+    "description": "Text choose exercise in homepage"
+  },
+  "already_settled" : "already settled",
+  "@already_settled":{
+    "description": "Text already settled in homepage"
+  },
+  "step_target" : "of 10.000 steps",
+  "@step_target":{
+    "description": "step target text in home page"
+  },
+  "choose_photo" : "Choose Photo",
+  "@choose_photo":{
+    "description": "choose photo text in profile page"
+  },
+  "weight" : "WEIGHT",
+  "@weight":{
+    "description": "Weight text in profile page"
+  },
+    "age" : "AGE",
+    "@age":{
+      "description": "age text in profile page"
+  },
+    "tall" : "Height",
+    "@tall":{
+      "description": "tall text in profile page"
+  }, 
+  "name" : "Name",
+  "@name":{
+    "description": "Name text in profile page"
+  },
+  "save" : "Save",
+  "@save":{
+    "description": "Save text in profile page"
+  },
+  "daily_intake" : "DAILY INTAKE",
+  "@daily_intake":{
+    "description": "daily intake text in calories tracker page"
+  },
+  "you_have_consumed" : "You have consumed",
+  "@you_have_consumed":{
+    "description": "You have consumed text in calories tracker page"
+  },
+  "position_tracker_text" : "in",
+  "@position_tracker_text":{
+    "description": "in text in calories tracker page"
+  },
+  "of_daily_goals" : "of daily goals",
+  "@of_daily_goals":{
+    "description": "of daily goals text in calories tracker page"
+  },
+  "calories_have_exceeded" : "Calories have exceeded the daily target !",
+  "@calories_have_exceeded":{
+    "description": "Calories have exceeded the daily target! text in calories tracker page"
+  },
+  "breakfast" : "Breakfast",
+  "@breakfast":{
+    "description": "Breakfast text in calories tracker page"
+  },
+  "lunch" : "Lunch",
+  "@lunch":{
+    "description": "Lunch text in calories tracker page"
+  },
+  "dinner" : "Dinner",
+  "@dinner":{
+    "description": "Dinner text in calories tracker page"
+  },
+  "cal" : "cal",
+  "@cal":{
+    "description": "cal text in calories tracker page"
+  },
+  "calories_burned_from_steps" : "Calories burned from steps",
+  "@calories_burned_from_steps":{
+    "description": "calories burned from steps text in calories tracker page"
+  },
+  "calories_burned_from_workouts" : "Calories burned from workouts",
+  "@calories_burned_from_workouts":{
+    "description": "calories burned from workouts text in calories tracker page"
+  },
+  "journal" : "journal",
+  "@journal":{
+    "description": "journal text in calories tracker page"
+  },
+  "breakfast_journal" : "BREAKFAST",
+  "@breakfast_journal":{
+    "description": "BREAKFAST text in journal page"
+  },
+  "lunch_journal" : "LUNCH",
+  "@lunch_journal":{
+    "description": "LUNCH text in journal page"
+  },
+  "dinner_journal" : "DINNER",
+  "@dinner_journal":{
+    "description": "DINNER text in journal page"
+  },
+  "no_data" : "No data",
+  "@no_data":{
+    "description": "No Data Text"
+  },    
+  "meal" : "Meal",
+  "@meal":{
+    "description": "Meal Text in FormAddMeal Page"
+  },
+  "add_meal" : "Add Meals",
+  "@add_meal":{
+    "description": "Add Meals Text in FormAddMeal Page"
+  },
+  "choose_your_meal" : "Choose your meals",
+  "@choose_your_meal":{
+    "description": "Choose your meals Text in FormAddMeal Page"
+  },
+  "search" : "Search",
+  "@search":{
+    "description": "Search Text in FormAddMeal Page"
+  },
+  "meal_name" : "Meal Name",
+  "@meal_name":{
+    "description": "Meal Name Text in FormAddMeal Page"
+  },
+  "meal_gram" : "Food Weight per-Gram",
+  "@meal_gram":{
+    "description": "Meal Gram Text in FormAddMeal Page"
+  },
+  "meal_calorie" : "Meal Calorie per-Gram",
+  "@meal_calorie":{
+    "description": "Meal calorie Text in FormAddMeal Page"
+  },
+  "meal_fat" : "Meal Fat per-Gram",
+  "@meal_fat":{
+    "description": "Meal fat Text in FormAddMeal Page"
+  },
+  "meal_protein" : "Meal Protein per-Gram",
+  "@meal_protein":{
+    "description": "Meal protein Text in FormAddMeal Page"
+  },
+  "meal_carbs" : "Meal Carbs per-Gram",
+  "@meal_carbs":{
+    "description": "Meal carbs Text in FormAddMeal Page"
+  },
+  "meal_description" : "Meal Description",
+  "@meal_description":{
+    "description": "Meal description Text in FormAddMeal Page"
+  },
+  "meal_clasess" : "Meal Classes",
+  "@meal_clasess":{
+    "description": "Meal classes Text in FormAddMeal Page"
+  },
+  "add_photo" : "Add Photo",
+  "@add_photo":{
+    "description": "Add Photo Text in FormAddMeal Page"
+  },
+  "file_name" : "File Name",
+  "@file_name":{
+    "description": "File Name Text in FormAddMeal Page"
+  },
+  "body_weight_weight_tracker" : "Body Weight",
+  "@body_weight_weight_tracker":{
+    "description": "Body weight Text in weight tracker page"
+  },
+  "now" : "NOW",
+  "@now":{
+    "description": "Now Text in weight tracker page"
+  },
+  "my_progress" : "My Progress",
+  "@my_progress":{
+    "description": "My progress Text in weight tracker page"
+  },
+  "weight_weight_tracker" : "Weight",
+  "@weight_weight_tracker":{
+    "description": "Weight Text in weight tracker page"
+  },
+  "waist_weight_tracker" : "Waist",
+  "@waist_weight_tracker":{
+    "description": "Waist Text in weight tracker page"
+  },
+  "hand_weight_tracker" : "Hand",
+  "@hand_weight_tracker":{
+    "description": "Hand Text in weight tracker page"
+  },
+  "thigh_weight_tracker" : "Thigh",
+  "@thigh_weight_tracker":{
+    "description": "Thigh Text in weight tracker page"
+  },
+  "timeline" : "Timeline",
+  "@timeline":{
+    "description": "Timeline Text in weight tracker page"
+  },
+  "add" : "Add",
+  "@add":{
+    "description": "Add Text in subscription page"
+  },
+  "waist_line" : "Current Waist Line",
+  "@waist_line":{
+    "description": "Waist Line Text in subscription page"
+  },
+  "hand_circumference" : "Current Hand Circumference",
+  "@hand_circumference":{
+    "description": "Hand circumference Text in subscription page"
+  },
+  "thigh_circumference" : "Current Thigh circumference",
+  "@thigh_circumference":{
+    "description": "Thigh circumference Text in subscription page"
+  },
+  "date" : "Date",
+  "@date":{
+    "description": "Date Text in subscription page"
+  },
+  "exercise_wo" : "exercise",
+  "@exercise_wo":{
+    "description": "Exercise text in eventsPage"
+  },
+  "add_exercise" : "Add Exercise",
+  "@add_exercise":{
+    "description": "Add exercise text in eventsPage"
+  },
+  "choose_your_exercise" : "Choose your Exercise",
+  "@choose_your_exercise":{
+    "description": "option text in eventsPage"
+  },
+  "exercise_name" : "Exercise Name",
+  "@exercise_name":{
+    "description": "Exercise name text in addeventsPage"
+  },
+  "exercise_calorie" : "Exercise Calorie",
+  "@exercise_calorie":{
+    "description": "Exercise Calorie text in addeventsPage"
+  },
+  "exercise_type" : "Exercise Type",
+  "@exercise_type":{
+    "description": "Exercise Type text in addeventsPage"
+  },
+  "exercise_description" : "Exercise Description",
+  "@exercise_description":{
+    "description": "Exercise description text in addeventsPage"
+  },
+  "exercise_link" : "Exercise Link",
+  "@exercise_link":{
+    "description": "Exercise link text in addeventsPage"
+  },
+  "daily_step" : "DAILY STEP",
+  "@daily_step":{
+    "description": "Daily Step text in gps tracker"
+  },
+  "finish" : "Finish",
+  "@finish":{
+    "description": "Finish text in gps tracker"
+  },
+  "you_reach_daily_steps" : "You have reached ",
+  "ten_thousand_steps" : " / 10.000 steps on",
+  "@ten_thousand_steps":{
+    "description": " / 10.000 steps on text in gps tracker"
+  },
+  "history" : "History",
+  "@history":{
+    "description": "History text in gps tracker"
+  },  
+  "step_history" : "Step History",
+  "@step_history":{
+    "description": "Step History text in gps tracker"
+  },
+  "boiled_corn" : "Boiled Corn",
+  "@boiled_corn":{
+    "description": "Data for list Meals"
+  },
+  "boiled_corn_desc" : "Boiled corn is a staple food that is rich in carbohydrates, low in fat, and a good source of energy for daily activities. Suitable as part of a healthy diet.",
+  "@boiled_corn_desc":{
+    "description": "Desc for list Meals"
+  },
+  "staple_type_a" : "Group A Staple Food",
+  "@staple_type_a":{
+    "description": "Type for list Meals"
+  },
+  "staple_type_b" : "Group B Staple Food",   
+  "@staple_type_b":{
+    "description": "Type for list Meals"
+  },
+
+  "boiled_potato" : "Boiled Potato",
+  "@boiled_potato":{
+    "description": "Data for list Meals"
+  },
+  "boiled_potato_desc" : "Boiled potato are a source of carbohydrates that are low in fat and high in fiber. Ideal for meeting energy needs and keeping you fuller for longer.",
+  "@boiled_potato_desc":{
+    "description": "Desc for list Meals"
+  },
+  "white_rice" : "White Rice",
+  "@white_rice":{
+    "description": "Data for list Meals"
+  },
+  "white_rice_desc" : "White rice is a staple food with high carbohydrates that provide quick energy. Despite being high in calories, white rice is often a major part of the daily diet.",
+  "@white_rice_desc":{
+    "description": "Desc for list Meals"
+  },
+  "grilled_chicken" : "Grilled Chicken",
+  "@grilled_chicken":{
+    "description": "Data for list Meals"
+  },
+  "grilled_chicken_desc" : "Grilled chicken is a source of high protein that is low in fat. It's great for building muscle and is suitable for a healthy, nutritionally balanced diet.",
+  "@grilled_chicken_desc":{
+    "description": "Desc for list Meals"
+  },
+  "protein_type_a" : "Group A Protein Food",   
+  "@protein_type_a":{
+    "description": "Type for list Meals"
+  },
+  "fried_chicken" : "Fried Chicken",
+  "@fried_chicken":{
+    "description": "Data for list Meals"
+  },  
+  "fried_chicken_desc" : "Fried chicken can be a source of protein, but it is high in fat and calories.",
+  "@fried_chicken_desc":{
+    "description": "Desc for list Meals"
+  },
+  "protein_type_b" : "Group B Protein Food",   
+  "@protein_type_b":{
+    "description": "Type for list Meals"
+  },
+  "roast_beef" : "Roast Beef",
+  "@roast_beef":{
+    "description": "Data for list Meals"
+  },
+  "roast_beef_desc" : "Roast beef is high in protein and low in fat, ideal for building muscle and recovering after a workout.",
+  "@roast_beef_desc":{
+    "description": "Desc for list Meals"
+  },
+  "boiled_shrimp" : "Boiled Shrimp",
+  "@boiled_shrimp":{
+    "description": "Data for list Meals"
+  },
+  "boiled_shrimp_desc" : "Boiled shrimp are rich in protein, low in fat and easy to digest, making them an ideal choice to support muscle recovery after a workout.",
+  "@boiled_shrimp_desc":{
+    "description": "Desc for list Meals"
+  },
+  "grilled_shrimp" : "Grilled Shrimp",
+  "@grilled_shrimp":{
+    "description": "Data for list Meals"
+  },
+  "grilled_shrimp_desc" : "Grilled shrimp is protein-rich, low-fat and delicious, making it the perfect choice to support muscle recovery after a workout.",
+  "@grilled_shrimp_desc":{
+    "description": "Desc for list Meals"
+  },
+  "baked_salmon" : "Baked Salmon",
+  "@baked_salmon":{
+    "description": "Data for list Meals"
+  },
+  "baked_salmon_desc" : "Baked salmon is rich in protein, omega-3 fatty acids and low in fat, making it an ideal choice to support post-workout muscle recovery and growth.",
+  "@baked_salmon_desc":{
+    "description": "Desc for list Meals"
+  },
+  "fried_squid" : "Fried Squid",
+  "@fried_squid":{
+    "description": "Data for list Meals"
+  },
+  "fried_squid_desc" : "Crispy fried squid with seasoned flour, perfect for a snack or side dish.",
+  "@fried_squid_desc":{
+    "description": "Desc for list Meals"
+  },
+  "boiled_squid" : "Boiled Squid",
+  "@boiled_squid":{
+    "description": "Data for list Meals"
+  },
+  "boiled_squid_desc" : "Braised squid makes for a healthy and low-fat dish.",
+  "@boiled_squid_desc":{
+    "description": "Desc for list Meals"
+  },
+  "chicken_sausage" : "Chicken Sausage",
+  "@chicken_sausage":{
+    "description": "Data for list Meals"
+  },
+  "chicken_sausage_desc" : "Chicken sausage is made from chicken meat that is processed for practical consumption.",
+  "@chicken_sausage_desc":{
+    "description": "Desc for list Meals"
+  },
+  "protein_type_c" : "Group C Protein Food",   
+  "@protein_type_c":{
+    "description": "Type for list Meals"
+  },
+  "brown_rice" : "Brown Rice",
+  "@brown_rice":{
+    "description": "Data for list Meals"
+  },
+  "brown_rice_desc" : "Brown rice contains complex carbohydrates for long-lasting energy.",
+  "@brown_rice_desc":{
+    "description": "Desc for list Meals"
+  },
+  "staple_food" : "Staple Food",   
+  "@staple_food":{
+    "description": "Type for list Meals"
+  },
+  "avocado" : "Avocado",
+  "@avocado":{
+    "description": "Data for list Meals"
+  },
+  "avocado_desc" : "Avocado is a fruit that contains healthy fats that are good for energy and recovery.",
+  "@avocado_desc":{
+    "description": "Desc for list Meals"
+  },
+  "fruit" : "Fruit",   
+  "@fruit":{
+    "description": "Type for list Meals"
+  },
+  "mango" : "Mango",
+  "@mango":{
+    "description": "Data for list Meals"
+  },
+  "mango_desc" : "Mango is a rich in vitamins and natural energy from fruit sugars.",
+  "@mango_desc":{
+    "description": "Desc for list Meals"
+  },
+  "banana" : "Banana",
+  "@banana":{
+    "description": "Data for list Meals"
+  },
+  "banana_desc" : "Bananas are a quick source of energy from natural carbohydrates.",
+  "@banana_desc":{
+    "description": "Desc for list Meals"
+  },
+  "strawberry" : "Strawberry",
+  "@strawberry":{
+    "description": "Data for list Meals"
+  },
+  "strawberry_desc" : "Strawberries are rich in vitamin C and low in calories.",
+  "@strawberry_desc":{
+    "description": "Desc for list Meals"
+  },
+  "nutrition" : "Nutrition",
+  "@nutrition":{
+    "description": "nutrition text in detail meals"
+  },
+  "fat" : "Fat",
+  "@fat":{  
+    "description": "fat text in detail meals"
+  },
+  "add_to_journal" : "Add to Journal",
+  "@add_to_journal":{
+    "description": "add to journal text in detail meals"
+  },
+  "carbs" : "Carbohydrates",
+  "@carbs":{
+    "description": "carbohydrates text in detail meals"
+  },
+   "chest_type" : "Chest",
+  "@chest_type":{
+    "description": "type text in exercise"
+  },     
+  "diamond_push_up_desc" : "A variation of the traditional push up that puts more pressure on the triceps.",
+  "@diamond_push_up_desc":{
+    "description": "desc text in exercise"
+  },
+  "squat_jump" : "Squat Jump",
+  "@squat_jump":{
+    "description": "data text in exercise"
+  },        
+  "legs_type" : "Legs",
+  "@legs_type":{
+    "description": "type text in exercise"
+  }, 
+  "legs_desc" : "Exercises that involve a squat followed by a vertical jump after reaching the bottom position of the squat.",
+  "@legs_desc":{
+    "description": "desc text in exercise"
+  },
+  "shoulders_type" : "Shoulders",
+  "@shoulders_type":{
+    "description": "type text in exercise"
+  }, 
+  "lateral_raises_desc" : "Lateral raises are one of the strength exercises used to isolate the lateral deltoid muscle, which is located on the outside of the shoulder.",
+  "@lateral_raises_desc":{
+    "description": "desc text in exercise"
+  } , 
+  "arm_circle_desc" : "Arm circles are warm-up exercises that are often performed before strength training or other sports exercises.",
+  "@arm_circle_desc":{
+    "description": "desc text in exercise"
+  },  
+  "bench_press_desc" : "Bench press is one of the main strength exercises commonly performed in weight training programs.",
+  "@bench_press_desc":{
+    "description": "desc text in exercise"
+  },
+  "skipping_rope" : "Skipping Rope",
+  "@skipping_rope":{
+    "description": "data text in exercise"
+  },
+  "full_body_type" : "Full Body",
+  "@full_body_type":{
+    "description": "type text in exercise"
+  },
+  "skipping_rope_desc" : "Skipping rope is a full-body exercise as it involves various muscles and body systems to perform the movements effectively.",
+  "@skipping_rope_desc":{
+    "description": "desc text in exercise"
+  },
+  "jumping_jacks_desc" : "Jumping jacks are a total-body workout because they involve almost all major muscle groups.",
+  "@jumping_jacks_desc":{
+    "description": "desc text in exercise"
+  },
+  "abs_type" : "Abs",
+  "@abs_type":{
+    "description": "type text in exercise"
+  },
+  "sit_up_desc" : "Crunches are an exercise that focuses on the abdominal muscles, especially the core muscles.",
+  "@sit_up_desc":{
+    "description": "desc text in exercise"
+  },
+  "squat" : "Squat",
+  "@squat":{
+    "description": "data text in exercise"
+  },  
+  "squat_desc" : "Squats are physical exercises performed by bending the legs to resemble a squatting position or sitting on a chair.",
+  "@squat_desc":{
+    "description": "desc text in exercise"
+  },
+  "spinning" : "Spinning",
+  "@spinning":{
+    "description": "data text in exercise"
+  },  
+  "spinning_desc" : "Spinning (high-intensity stationary cycling) is an exercise that focuses on the legs.",
+  "@spinning_desc":{
+    "description": "desc text in exercise"
+  },  
+  "rowing" : "Rowing",
+  "@rowing":{
+    "description": "data text in exercise"
+  },  
+  "rowing_desc" : "Rowing using machines (indoor rowing) is a full-body sport as it involves almost all major muscle groups simultaneously.",
+  "@rowing_desc":{
+    "description": "desc text in exercise"
+  },
+  "stair_climbing" : "Stair Climbing",
+  "@stair_climbing":{
+    "description": "data text in exercise"
+  },  
+  "stair_climbing_desc" : "Stair climbing is an exercise that mainly involves the legs",
+  "@stair_climbing_desc":{
+    "description": "desc text in exercise"
+  },   
+  "elliptical_desc" : "An elliptical is a cardio machine that involves movements like running or walking without direct impact on the joints.",
+  "@elliptical_desc":{
+    "description": "desc text in exercise"
+  },   
+  "px_desc" : "P90X is an intense workout program designed to engage almost the entire body.",
+  "@px_desc":{
+    "description": "desc text in exercise"
+  },   
+  "muay_thai_desc" : "Muay Thai is a martial arts sport that involves striking techniques using hands, elbows, knees, and feet. It involves almost the entire body.",
+  "@muay_thai_desc":{
+    "description": "desc text in exercise"
+  },   
+    "minutes" : "Minutes",
+    "@minutes":{
+      "description": "desc text in exercise"
+    },
+    "minutes_wo" : "Enter Duration (minimum 1 minute)",
+    "@minutes_wo":{
+      "description": "desc text in exercise"
+    },   
+    "see_tutorial" : "See Tutorial",
+    "@see_tutorial":{
+      "description": "desc text in exercise"
+    },
+    "meals_data_details" : "Meals Data Details",
+    "@meals_data_details":{
+      "description": "desc text in exercise"
+    },
+    "data_details" : "Data Details",
+    "@data_details":{
+      "description": "desc text in exercise"
+    },
+    "validation_choose_one_eat_activity" : "Please choose one of the meal times.",
+    "@validation_choose_one_eat_activity":{
+      "description": "Pesan error di halaman ketujuh"
+    },        
+    "validation_check_your_form" : "Please check and complete your form",
+    "@validation_check_your_form":{
+      "description": "Pesan error di halaman ketujuh"
+    },
+    "failed" : "FAILED",
+    "@failed":{
+      "description": "Pesan error di halaman ketujuh"
+    },
+    "please_select_a_date" : "Please select a date",
+    "@please_select_a_date":{
+      "description": "Pesan error di halaman ketujuh"
+    },
+    "attention" : "Attention",
+    "@attention":{
+      "description": "Pesan error di halaman ketujuh"
+    },
+    "success" : "Success",
+    "@success":{
+      "description": "Pesan berhasil di halaman ketujuh"
+    },
+    "meal_added_successfully" : "Meal added successfully",
+    "@meal_added_successfully":{
+      "description": "Pesan error di halaman ketujuh"
+    },
+    "exercise_added_successfully" : "Exercise added successfully",
+    "@exercise_added_successfully":{
+      "description": "Pesan error di halaman ketujuh"
+    },
+    "exercise_status_successfully_changed" : "Exercise status successfully changed",
+    "@exercise_status_successfully_changed":{
+      "description": "Pesan error di halaman ketujuh"
+    },
+    "exercise_successfully_deleted" : "Exercise successfully deleted",
+    "@exercise_successfully_deleted":{
+      "description": "Pesan error di halaman ketujuh"
+    },
+    "daily_calories_successfully_deleted" : "Daily calories successfully deleted",
+    "@daily_calories_successfully_deleted":{
+      "description": "Pesan error di halaman ketujuh"
+    },
+    "daily_calories_added_successfully" : "Daily calories added successfully",
+    "@daily_calories_added_successfully":{
+      "description": "Pesan error di halaman ketujuh"
+    },
+    "login_successful" : "Login Successful",
+    "@login_successful":{
+      "description": "Pesan error di halaman ketujuh"
+    },
+    "profile_update_successful" : "Profile update successful",
+    "@profile_update_successful":{
+      "description": "Pesan error di halaman ketujuh"
+    },
+    "weight_added_successfully" : "Weight added successfully",
+    "@weight_added_successfully":{
+      "description": "Pesan error di halaman ketujuh"
+    },
+    "daily_steps_added_successfully" : "Daily steps added successfully",
+    "@daily_steps_added_successfully":{
+      "description": "Pesan error di halaman ketujuh"
+    },
+    "weight_successfully_deleted" : "Weight successfully deleted",
+    "@weight_successfully_deleted":{
+      "description": "Pesan error di halaman ketujuh"
+    },
+    "daily_exercise_successfully_added" : "Daily exercise successfully added",
+    "@daily_exercise_successfully_added":{
+      "description": "Pesan error di halaman ketujuh"
+    },
+    "image_successfully_selected" : "Image successfully selected",
+    "@image_successfully_selected":{
+      "description": "Pesan error di halaman ketujuh"
+    },
+    "image_not_selected" : "Image not selected",
+    "@image_not_selected":{
+      "description": "Pesan error di halaman ketujuh"
+    },
+    "data_must_be_greater_than_zero" : "Data must be greater than 0",
+    "@data_must_be_greater_than_zero":{
+      "description": "Pesan error di halaman ketujuh"
+    },
+    "exercise_calories_per_minute" : "Exercise Calories per Minute",
+    "@exercise_calories_per_minute":{
+      "description": "Kalori Latihan text in addeventsPage"
+    },
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "january": "January",
+    "february": "February",
+    "march": "March",
+    "april": "April",
+    "may": "May",
+    "june": "June",
+    "july": "July",
+    "august": "August",
+    "september": "September",
+    "october": "October",
+    "november": "November",
+    "december": "December" ,   
+    "calories_have_exceeded_the_daily_target" : "Calories have exceeded the daily target !",                       
+    "daily_calorie_targets_are_invalid" : "Daily calorie targets are invalid !",      
+    "snack" : "Snack",  
+    "update_content" : "Data Updated Successfully",
+    "allergy_note" : "Take note of your allergies",
+    "your_allergy_notes" : "Your Allergy Notes",
+    "note_successfully_deleted" : "Note Successfully Deleted",                                                                                      
+    "note_successfully_added" : "Note Successfully Added",
+    "allergy_warning" : "Allergy Warning!",
+    "allergy_warning_desc" : "On this food, you have an allergy. Are you sure you want to add them?",
+    "yes" : "yes",
+    "no" : "No",
+    "current_body_weight" : "Current Body Weight",                                                                            
+    "tracking_saved_successfully": "Tracking Saved Successfully!",
+    "total_steps" : "Total Steps : ",
+    "calories_burned" : "Calories Burned : ",
+    "time_out" : "Time Out",
+    "exercise_time_is_over" : "Exercise time is over!",
+    "done" : "Done",
+    "pause" : "Pause",
+    "resume" : "Resume",
+    "no_results_found" : "No results found",
+    "data_not_available" : "Data not available",
+    "date_format_home" : "EEEE, d MMMM",   
+    "date_format_calories" : "EEEE, d MMMM yyyy", 
+    "vegetable" : "Vegetable",
+    "choose_meal_group" : "Choose Meal Groups", 
+    "exercise_status" : "Exercise Status",                                                                                
+    "exercise_is_complete" : "Exercise is complete",                                                                                
+    "exercise_is_not_yet_complete" : "Exercise is not yet complete",     
+    "meal_successfully_deleted" : "Meal successfully deleted", 
+    "workout_successfully_deleted" : "Workout successfully deleted",                                                                                                                                                                                                                                                                                                                 
+    "yo" : "yo",
+    "date_journal" : "yyyy-MM-dd",    
+    "delete_meal" : "DELETE MEAL?",    
+    "are_you_sure_delete_meal" : "Are you sure about deleting this meal data? If this meal is deleted then the data will be lost permanently.",    
+    "delete_exercise" : "DELETE EXERCISE?",    
+    "are_you_sure_delete_exercise" : "Are you sure about deleting this exercise data? If this exercise is deleted then the data will be lost permanently.",    
+    "delete_note" : "DELETE NOTE?",    
+    "are_you_sure_delete_note" : "Are you sure about deleting this note data? If this note is deleted then the data will be lost permanently."    
+}

@@ -1,0 +1,855 @@
+{
+  "@@locale": "id",
+  "hi": "hai",
+  "@hi": {
+    "description": "ucapan salam"
+  },    
+  "welcome" : "Selamat Datang di",
+  "@welcome":{
+      "description": "ucapan salam di halaman pertama"
+  },
+  "best_app" : "Aplikasi terbaik untuk kesehatan dan kebugaran Anda",
+  "@best_app":{
+        "description": "salam kedua di halaman pertama"
+  },
+  "start" : "Mulai",
+  "@start":{
+        "description": "kisi-kisi tombol di halaman pertama"
+  },  
+  "step" : "LANGKAH",
+  "@step":{
+      "description": "langkah pengguna untuk autentikasi"
+  }, 
+  "steps" : "Langkah",
+  "@steps":{
+      "description": "langkah pengguna untuk autentikasi"
+  }, 
+  "enter_name" : "Masukan Nama Anda",
+  "@enter_name":{
+    "description": "Masukan nama di halaman kedua"
+  },
+  "please_enter_name" : "Silakan masukan nama untuk melanjutkan",
+  "@please_enter_name":{
+    "description": "silakan masukan nama di halaman kedua"
+  },
+  "next" : "Lanjut",
+  "@next":{
+    "description": "teks petunjuk untuk tombol lanjut"
+  },    
+  "validation_error_enter_name" : "Field ini tidak boleh kosong",
+  "@validation_error_enter_name":{
+    "description": "teks valisasi error masukkan nama"
+  },    
+  "enter_your_weight_now" : "Masukan berat badan saat ini",
+  "@enter_your_weight_now":{
+      "description": "Masukan berat badan pengguna di halaman ketiga"
+  },
+  "enter_your_weight_target" : "Masukan target berat badanmu",
+  "@enter_your_weight_target":{
+      "description": "Masukan berat badan pengguna saat ini di halaman ketiga"
+  },
+  "what_is_your_height" : "Berapa tinggi badanmu?",
+  "@what_is_your_height":{
+    "description": "tanya pengguna mengenai tinggi di halaman keempat"
+  },
+  "enter_your_height" : "Masukan tinggi badan anda saat ini",
+  "@enter_your_height":{
+    "description": "teks petunjuk mengenai tinggi di halaman keempat"
+  },
+  "enter_your_age" : "Masukan umurmu",
+  "@enter_your_age":{
+    "description": "bertanya ke pengguna mengenai umur di halaman kelima "
+  },
+  "enter_age" : "Masukan umur anda saat ini",
+  "@enter_age":{
+    "description": "teks petunjuk untuk form umur di halaman kelima"
+  },
+  "which_one_are_you" : "Yang mana dirimu?",
+  "@which_one_are_you":{
+    "description": "teks sambutan untuk form jenis kelamin di halaman keenam"
+  },
+  "male" : "Laki-laki",
+  "@male":{
+    "description": "opsi Laki-laki untuk Jenis Kelamin"
+  },
+  "women" : "Perempuan",
+  "@women":{
+    "description": "opsi perempuan untuk jenis kelamin"
+  },
+  "verification_text_for_gender" : "Untuk memberi Anda pengalaman penyesuaian, kami perlu mengetahui jenis kelamin Anda",
+  "@verification_text_for_gender":{
+    "description": "Verifikasi untuk jenis kelamin"
+  },
+  "daily_physical_activities" : "Aktivitas fisik harian",
+  "@daily_physical_activities":{
+    "description": "sambutan pertama di halaman ketujuh"
+  },
+  "how_often_do_activity_per_day" : "Seberapa sering anda melakukan aktivitas fisik perharinya",
+  "@how_often_do_activity_per_day":{
+    "description": "sambutan kedua di halaman ketujuh"
+  },
+  "first_option_daily_activity" : "Sangat Ringan (aktivitas fisik ringan atau tidak ada aktivitas fisik selama hari)",
+  "@first_option_daily_activity":{
+    "description": "Opsi pertama di halaman ketujuh"
+  },
+  "second_option_daily_activity" : "Ringan (aktivitas fisik ringan, seperti berjalan kaki atau sedikit olahraga, 1-3 hari dalam seminggu)",
+  "@second_option_daily_activity":{
+    "description": "Opsi kedua di halaman ketujuh"
+  },
+  "third_option_daily_activity" : "Sedang (aktivitas fisik sedang, misalnya berolahraga 3-5 hari dalam seminggu)",
+  "@third_option_daily_activity":{
+    "description": "Opsi ketiga di halaman ketujuh"
+  },
+  "fourth_option_daily_activity" : "Berat (aktivitas fisik tinggi, seperti berolahraga 6-7 hari dalam seminggu)",
+  "@fourth_option_daily_activity":{
+    "description": "Opsi keempat di halaman ketujuh"
+  },    
+  "error_message_for_daily_activity_option" : "Silakan pilih salah satu aktivitas fisik.",
+  "@error_message_for_daily_activity_option":{
+    "description": "Pesan error di halaman ketujuh"
+  },
+  "you_are_ready" : "Kamu sudah siap!",
+  "@you_are_ready":{
+    "description": "sambutan pertama di halaman kedelapan"
+  },
+  "greetings_in_get_started" : "Terima kasih telah meluangkan waktu Anda untuk membuat akun dengan kami. Sekarang inilah bagian yang menyenangkan, mari jelajahi aplikasinya.",
+  "@greetings_in_get_started":{
+    "description": "Sambutan kedua in halaman kedelapan"
+  },
+  "ready" : "Mulai",
+  "@ready":{
+    "description": "teks kisi2 tombol di halaman kedelapan"
+  },
+  "calorie" : "KALORI",
+  "@calorie":{
+    "description": "Teks kalori di beranda"
+  },
+  "body_weight" : "BERAT BADAN",
+  "@body_weight":{
+    "description": "Teks berat badan di beranda"
+  },
+  "exercise" : "LATIHAN",
+  "@exercise":{
+    "description": "Teks Latihan di beranda"
+  },
+  "from" : "dari",
+  "@from":{
+    "description": "Teks dari di beranda"
+  },
+  "not_yet" : "Belum",
+  "@not_yet":{
+    "description": "Teks belum di beranda"
+  },    
+  "choose_exercise" : "memilih latihan",
+  "@choose_exercise":{
+    "description": "Teks memilih latihan di beranda"
+  },   
+  "already_settled" : "sudah diselesaikan",
+  "@already_settled":{
+    "description": "Text sudah diselesaikan in homepage"
+  }, 
+  "step_target" : "dari 10.000 langkah",
+  "@step_target":{
+    "description": "Teks target langkah di beranda"
+  },    
+  "choose_photo" : "Pilih Foto",
+  "@choose_photo":{
+    "description": "teks pilih foto di halaman profile"
+  },    
+  "weight" : "BERAT",
+  "@weight":{
+    "description": "Teks berat di halaman profil"
+  },
+  "age" : "UMUR",
+  "@age":{
+    "description": "Teks umur di halaman profil"
+    },
+    "tall" : "Tinggi",
+    "@tall":{
+      "description": "Teks tinggi di halaman profil"
+    },
+    "name" : "Nama",
+    "@name":{
+      "description": "Teks Nama di halaman profil"
+    },
+    "save" : "Simpan",
+    "@save":{
+      "description": "Teks simpan di halaman profil"
+    },
+    "daily_intake" : "ASUPAN HARIAN",
+    "@daily_intake":{
+      "description": "teks asupan harian di halaman kalori tracker"
+    },
+    "you_have_consumed" : "Anda telah mengonsumsi",
+    "@you_have_consumed":{
+      "description": "Teks anda telah mengkonsumsi di halaman kalori tracker"
+    },
+    "position_tracker_text" : "pada",
+    "@position_tracker_text":{
+      "description": "Teks pada di halaman kalori tracker"
+    },
+    "of_daily_goals" : "dari tujuan harian",
+    "@of_daily_goals":{
+      "description": "dari tujuan harian teks di halaman kalori tracker"
+    },
+    "calories_have_exceeded" : "Kalori sudah melebihi target harian !",
+    "@calories_have_exceeded":{
+      "description": "teks kalri anda sudah lebih di kalori tracker page"
+    },
+    "breakfast" : "Sarapan",
+    "@breakfast":{
+      "description": "Teks sarapan di halaman kalori tracker"
+    },
+    "lunch" : "Makan Siang",
+    "@lunch":{
+      "description": "Teks makan siang di halaman kalori tracke"
+    },
+    "dinner" : "Makan Malam",
+    "@dinner":{
+      "description": "Teks makan malam di halaman kalori tracker"
+    },
+    "cal" : "kal",
+    "@cal":{
+      "description": "Teks kal di halaman kalori tracker"
+    },
+    "calories_burned_from_steps" : "Kalori terbakar dari langkah",
+    "@calories_burned_from_steps":{
+      "description": "Teks kalori terbakar dari langkah di halaman kalori tracker"
+    },
+    "calories_burned_from_workouts" : "Kalori terbakar dari latihan",
+    "@calories_burned_from_workouts":{
+      "description": "Teks Kalori terbakar dari latihan di halaman kalori tracker"
+    },
+    "journal" : "jurnal",
+    "@journal":{
+      "description": "Teks jurnal di halaman kalori tracker"
+    },
+    "breakfast_journal" : "SARAPAN",
+    "@breakfast_journal":{
+      "description": "Teks Sarapan di halaman jurnal"
+    },
+    "lunch_journal" : "MAKAN SIANG",
+    "@lunch_journal":{
+      "description": "MAKAN SINAG text in journal page"
+    },
+    "dinner_journal" : "MAKAN MALAM",
+    "@dinner_journal":{
+      "description": "MAKAN MALAM text in journal page"
+    },
+    "no_data" : "Tidak ada data",
+    "@no_data":{
+      "description": "Tidak ada data Text"
+    },
+    "meal" : "Makanan",
+    "@meal":{
+      "description": "Makanan Text in FormAddMeal Page"
+    },
+    "add_meal" : "Tambah Makanan",
+    "@add_meal":{
+      "description": "Tambah Makanan Text in FormAddMeal Page"
+    },
+    "choose_your_meal" : "Pilih makanan anda",
+    "@choose_your_meal":{
+      "description": "Pilih makanan anda Text in FormAddMeal Page"
+    },
+    "search" : "Cari",
+    "@search":{
+      "description": "cari Text in FormAddMeal Page"
+    },
+    "meal_name" : "Nama Makanan",
+    "@meal_name":{
+      "description": "Nama Makanan Text in FormAddMeal Page"
+    },
+    "meal_gram" : "Berat Makanan per-Gram",
+    "@meal_gram":{
+      "description": "Gram Makanan Text in FormAddMeal Page"
+    },
+    "meal_calorie" : "Kalori Makanan per-Gram",
+    "@meal_calorie":{
+      "description": "Kalori Makanan Text in FormAddMeal Page"
+    },
+    "meal_fat" : "Lemak Makanan per-Gram",
+    "@meal_fat":{
+      "description": "Lemak Makanan Text in FormAddMeal Page"
+    },
+    "meal_protein" : "Protein Makanan per-Gram",
+    "@meal_protein":{
+      "description": "Protein Makanan Text in FormAddMeal Page"
+    },
+    "meal_carbs" : "Karbohidrat Makanan per-Gram",
+    "@meal_carbs":{
+      "description": "Karbohidrat Makanan Text in FormAddMeal Page"
+    },
+    "meal_description" : "Deskripsi Makanan",
+    "@meal_description":{
+      "description": "Deskripsi Makanan Text in FormAddMeal Page"
+    },
+    "meal_clasess" : "Golongan Makanan",
+    "@meal_clasess":{
+      "description": "Golongan Makanan Text in FormAddMeal Page"
+    },
+    "add_photo" : "Tambah Gambar",
+    "@add_photo":{
+      "description": "Tambah Gambar Text in FormAddMeal Page"
+    },
+    "file_name" : "Nama File",
+    "@file_name":{
+      "description": "Nama File Text in FormAddMeal Page"
+    },
+    "body_weight_weight_tracker" : "Berat Badan",
+    "@body_weight_weight_tracker":{
+      "description": "Berat badan Text in weight tracker page"
+    },
+    "now" : "SEKARANG",
+    "@now":{
+      "description": "Sekarang Text in weight tracker page"
+    },
+    "my_progress" : "Prosesku",
+    "@my_progress":{
+      "description": "Prosesku Text in weight tracker page"
+    },
+    "weight_weight_tracker" : "Berat",
+    "@weight_weight_tracker":{
+      "description": "Berat Text in weight tracker page"
+    },
+    "waist_weight_tracker" : "Pinggang",
+    "@waist_weight_tracker":{
+      "description": "Pinggang Text in weight tracker page"
+    },
+    "hand_weight_tracker" : "Tangan",
+    "@hand_weight_tracker":{
+      "description": "Tangan Text in weight tracker page"
+    },
+    "thigh_weight_tracker" : "Paha",
+    "@thigh_weight_tracker":{
+      "description": "Paha Text in weight tracker page"
+    },
+    "timeline" : "Lini Masa",
+    "@timeline":{
+      "description": "Lini Masa Text in weight tracker page"
+    },
+    "add" : "Tambah",
+    "@add":{
+      "description": "Tambah Text in subscription page"
+    },
+    "waist_line" : "Lingkar Pinggang Saat Ini",
+    "@waist_line":{
+      "description": "Lingkar Pinggang Text in subscription page"
+    },
+    "hand_circumference" : "Lingkar Tangan Saat Ini",
+    "@hand_circumference":{
+      "description": "Lingkar Tangan Text in subscription page"
+    },
+    "thigh_circumference" : "Lingkar Paha Saat Ini",
+    "@thigh_circumference":{
+      "description": "Lingkar Paha Text in subscription page"
+    },
+    "date" : "Tanggal",
+    "@date":{
+      "description": "Tanggal Text in subscription page"
+    },
+    "exercise_wo" : "Latihan",
+    "@exercise_wo":{
+      "description": "Latihan text in eventsPage"
+    },
+    "add_exercise" : "Tambah Latihan",
+    "@add_exercise":{
+      "description": "Tambah Latihan text in eventsPage"
+    },
+    "choose_your_exercise" : "Pilih Latihan Anda",
+    "@choose_your_exercise":{
+      "description": "option text in eventsPage"
+    },
+    "exercise_name" : "Nama Latihan",
+    "@exercise_name":{
+      "description": "Nama Latihan text in addeventsPage"
+    },
+    "exercise_calorie" : "Kalori Latihan",
+    "@exercise_calorie":{
+      "description": "Kalori Latihan text in addeventsPage"
+    },
+    "exercise_type" : "Tipe Latihan",
+    "@exercise_type":{
+      "description": "Tipe Latihan text in addeventsPage"
+    },
+    "exercise_description" : "Deskripsi Latihan",
+    "@exercise_description":{
+      "description": "Deskripsi Latihan text in addeventsPage"
+    },
+    "exercise_link" : "Tautan Latihan",
+    "@exercise_link":{
+      "description": "Tautan Latihan text in addeventsPage"
+    },
+    "daily_step" : "LANGKAH HARIAN",
+    "@daily_step":{
+      "description": "LANGKAH HARIAN text in gps tracker"
+    },
+    "finish" : "Selesai",
+    "@finish":{
+      "description": "selesai text in gps tracker"
+    },
+    "you_reach_daily_steps" : "Anda telah mencapai ",
+    "ten_thousand_steps" : " / 10.000 langkah pada",
+    "@ten_thousand_steps":{
+      "description": " / 10.000 langkah pada text in gps tracker"
+    },
+    "history" : "Riwayat",
+    "@history":{
+      "description": "Riwayat text in gps tracker"
+    },
+    "step_history" : "History Langkah",
+    "@step_history":{
+      "description": "History Langkah text in gps tracker"
+    },
+    "boiled_corn" : "Jagung Rebus",
+    "@boiled_corn":{
+      "description": "Data for list Meals"
+    },
+    "boiled_corn_desc" : "Jagung rebus merupakan makanan pokok yang kaya akan karbohidrat, rendah lemak, dan sumber energi yang baik untuk aktivitas harian. Cocok sebagai bagian dari pola makan sehat.",
+    "@boiled_corn_desc":{
+      "description": "Desc for list Meals"
+    },
+    "staple_type_a" : "Makanan Pokok Golongan A",
+    "@staple_type_a":{
+      "description": "Type for list Meals"
+    },
+    "staple_type_b" : "Makanan Pokok Golongan B",
+    "@staple_type_b":{
+      "description": "Type for list Meals"
+    },
+    "boiled_potato" : "Kentang Rebus",
+    "@boiled_potato":{
+      "description": "Data for list Meals"
+    },
+    "boiled_potato_desc" : "Kentang rebus adalah sumber karbohidrat yang rendah lemak dan tinggi serat. Ideal untuk memenuhi kebutuhan energi dan menjaga kenyang lebih lama.",
+    "@boiled_potato_desc":{
+      "description": "Desc for list Meals"
+    },
+    "white_rice" : "Nasi Putih",
+    "@white_rice":{
+      "description": "Data for list Meals"
+    },
+    "white_rice_desc" : "Nasi putih adalah makanan pokok dengan karbohidrat tinggi yang memberikan energi cepat. Meskipun tinggi kalori, nasi putih sering menjadi bagian utama dalam pola makan sehari-hari.",
+    "@white_rice_desc":{
+      "description": "Desc for list Meals"
+    },
+    "grilled_chicken" : "Ayam Panggang",
+    "@grilled_chicken":{
+      "description": "Data for list Meals"
+    },
+    "grilled_chicken_desc" : "Ayam panggang adalah sumber protein tinggi yang rendah lemak. Sangat baik untuk membangun otot dan cocok untuk menu diet sehat dengan kandungan gizi seimbang.",
+    "@grilled_chicken_desc":{
+      "description": "Desc for list Meals"
+    },
+    "protein_type_a" : "Makanan Protein Golongan A",   
+    "@protein_type_a":{
+      "description": "Type for list Meals"
+    },
+    "fried_chicken" : "Ayam Goreng",
+    "@fried_chicken":{
+      "description": "Data for list Meals"
+    },  
+    "fried_chicken_desc" : "Ayam goreng bisa jadi sumber protein, tapi memiliki kandungan yang tinggi lemak dan kalori.",
+    "@fried_chicken_desc":{
+      "description": "Desc for list Meals"
+    },
+    "protein_type_b" : "Makanan Protein Golongan B",   
+    "@protein_type_b":{
+      "description": "Type for list Meals"
+    },  
+    "roast_beef" : "Daging Sapi Panggang",
+    "@roast_beef":{
+      "description": "Data for list Meals"
+    },
+    "roast_beef_desc" : "Daging sapi panggang kaya protein dan rendah lemak, ideal untuk membangun otot dan memulihkan tubuh setelah workout.",
+    "@roast_beef_desc":{
+      "description": "Desc for list Meals"
+    },
+    "boiled_shrimp" : "Udang Rebus",
+    "@boiled_shrimp":{
+      "description": "Data for list Meals"
+    },
+    "boiled_shrimp_desc" : "Udang rebus kaya protein, rendah lemak, dan mudah dicerna, menjadikannya pilihan ideal untuk mendukung pemulihan otot setelah latihan.",
+    "@boiled_shrimp_desc":{
+      "description": "Desc for list Meals"
+    },
+    "grilled_shrimp" : "Udang Panggang",
+    "@grilled_shrimp":{
+      "description": "Data for list Meals"
+    },
+    "grilled_shrimp_desc" : "Udang panggang kaya protein, rendah lemak, dan lezat, menjadikannya pilihan sempurna untuk mendukung pemulihan otot setelah latihan.",
+    "@grilled_shrimp_desc":{
+      "description": "Desc for list Meals"
+    },
+    "baked_salmon" : "Salmon Panggang",
+    "@baked_salmon":{
+      "description": "Data for list Meals"
+    },
+    "baked_salmon_desc" : "Ikan salmon panggang kaya protein, asam lemak omega-3, dan rendah lemak, menjadikannya pilihan ideal untuk mendukung pemulihan dan pertumbuhan otot setelah latihan.",
+    "@baked_salmon_desc":{
+      "description": "Desc for list Meals"
+    },
+    "fried_squid" : "Cumi Goreng",
+    "@fried_squid":{
+      "description": "Data for list Meals"
+    },
+    "fried_squid_desc" : "Cumi yang digoreng renyah dengan tepung berbumbu, cocok untuk camilan atau lauk.",
+    "@fried_squid_desc":{
+      "description": "Desc for list Meals"
+    },
+    "boiled_squid" : "Cumi Rebus",
+    "@boiled_squid":{
+      "description": "Data for list Meals"
+    },
+    "boiled_squid_desc" : "Cumi yang direbus menghasilkan hidangan sehat dan rendah lemak.",
+    "@boiled_squid_desc":{
+      "description": "Desc for list Meals"
+    },
+    "chicken_sausage" : "Sosis Ayam",
+    "@chicken_sausage":{
+      "description": "Data for list Meals"
+    },
+    "chicken_sausage_desc" : "Sosis ayam dibuat dari daging ayam yang diolah praktis untuk dikonsumsi.",
+    "@chicken_sausage_desc":{
+      "description": "Desc for list Meals"
+    },
+    "protein_type_c" : "Makanan Protein Golongan C",   
+    "@protein_type_c":{
+      "description": "Type for list Meals"
+    },
+    "brown_rice" : "Nasi Merah",
+    "@brown_rice":{
+      "description": "Data for list Meals"
+    },
+    "brown_rice_desc" : "Nasi merah mengandung karbohidrat kompleks untuk energi tahan lama.",
+    "@brown_rice_desc":{
+      "description": "Desc for list Meals"
+    },
+    "staple_food" : "Makanan Pokok",   
+    "@staple_food":{
+      "description": "Type for list Meals"
+    },
+    "avocado" : "Alpukat",
+    "@avocado":{
+      "description": "Data for list Meals"
+    },
+    "avocado_desc" : "Alpukat menjadi buah yang mengandung lemak sehat sehingga baik untuk energi dan pemulihan.",
+    "@avocado_desc":{
+      "description": "Desc for list Meals"
+    },
+    "fruit" : "Buah",   
+    "@fruit":{
+      "description": "Type for list Meals"
+    },
+    "mango" : "Mangga",
+    "@mango":{
+      "description": "Data for list Meals"
+    },
+    "mango_desc" : "Mangga kaya vitamin dan energi alami dari gula buah.",
+    "@mango_desc":{
+      "description": "Desc for list Meals"
+    },
+    "banana" : "Pisang",
+    "@banana":{
+      "description": "Data for list Meals"
+    },
+    "banana_desc" : "Pisang sumber energi cepat dari karbohidrat alami.",
+    "@banana_desc":{
+      "description": "Desc for list Meals"
+    },    
+    "strawberry" : "Stroberi",
+    "@strawberry":{
+      "description": "Data for list Meals"
+    },
+    "strawberry_desc" : "Stroberi kaya vitamin C dan rendah kalori.",
+    "@strawberry_desc":{
+      "description": "Desc for list Meals"
+    },    
+    "nutrition" : "Nutrisi",
+    "@nutrition":{
+      "description": "nutrition text in detail meals"
+    },    
+    "fat" : "Lemak",
+    "@fat":{
+      "description": "fat text in detail meals"
+    },    
+    "add_to_journal" : "Tambahkan ke Jurnal",
+    "@add_to_journal":{
+      "description": "add to journal text in detail meals"
+    },
+    "carbs" : "Karbohidrat",
+    "@carbs":{
+      "description": "karbohidrat text in detail meals"
+    },
+    "chest_type" : "Dada",
+    "@chest_type":{
+      "description": "type text in exercise"
+    },     
+    "diamond_push_up_desc" : "Variasi dari push up tradisional yang menempatkan lebih banyak tekanan pada trisep.",
+    "@diamond_push_up_desc":{
+      "description": "desc text in exercise"
+    },    
+    "squat_jump" : "Lompat Jongkok",
+    "@squat_jump":{
+      "description": "data text in exercise"
+    },        
+    "legs_type" : "Kaki",
+    "@legs_type":{
+      "description": "type text in exercise"
+    }, 
+    "legs_desc" : "Latihan yang melibatkan gerakan squat diikuti dengan loncatan vertikal setelah mencapai posisi bawah squat.",
+    "@legs_desc":{
+      "description": "desc text in exercise"
+    },
+    "shoulders_type" : "Bahu",
+    "@shoulders_type":{
+      "description": "type text in exercise"
+    }, 
+    "lateral_raises_desc" : "Lateral raise adalah salah satu latihan kekuatan yang digunakan untuk mengisolasi otot deltoid lateral, yang terletak di bagian luar bahu.",
+    "@lateral_raises_desc":{
+      "description": "desc text in exercise"
+    },
+    "arm_circle_desc" : "Arm circles adalah latihan pemanasan yang sering dilakukan sebelum latihan kekuatan atau latihan olahraga lainnya.",
+    "@arm_circle_desc":{
+      "description": "desc text in exercise"
+    },
+    "bench_press_desc" : "Bench press adalah salah satu latihan kekuatan utama yang umum dilakukan dalam program latihan beban.",
+    "@bench_press_desc":{
+      "description": "desc text in exercise"
+    },
+    "skipping_rope" : "Lompat Tali",
+    "@skipping_rope":{
+      "description": "data text in exercise"
+    },
+    "full_body_type" : "Seluruh Tubuh",
+    "@full_body_type":{
+      "description": "type text in exercise"
+    },
+    "skipping_rope_desc" : "Lompat tali termasuk olahraga bagian seluruh tubuh karena melibatkan berbagai otot dan sistem tubuh untuk melakukan gerakan secara efektif.",
+    "@skipping_rope_desc":{
+      "description": "desc text in exercise"
+    },       
+    "jumping_jacks_desc" : "Jumping jack termasuk olahraga bagian seluruh tubuh (total-body workout) karena gerakannya melibatkan hampir semua kelompok otot utama.",
+    "@jumping_jacks_desc":{
+      "description": "desc text in exercise"
+    },
+    "abs_type" : "Perut",
+    "@abs_type":{
+      "description": "type text in exercise"
+    },
+    "sit_up_desc" : "sit-up termasuk olahraga yang fokus pada otot perut, khususnya bagian otot inti.",
+    "@sit_up_desc":{
+      "description": "desc text in exercise"
+    },
+    "squat" : "Berjongkok",
+    "@squat":{
+      "description": "data text in exercise"
+    },  
+    "squat_desc" : "Squat adalah latihan fisik yang dilakukan dengan cara menekuk kaki hingga menyerupai posisi berjongkok atau duduk di kursi.",
+    "@squat_desc":{
+      "description": "desc text in exercise"
+    },       
+    "spinning" : "Bersepeda Statis",
+    "@spinning":{
+      "description": "data text in exercise"
+    },  
+    "spinning_desc" : "Spinning (bersepeda statis dengan intensitas tinggi) termasuk olahraga yang fokus pada bagian kaki.",
+    "@spinning_desc":{
+      "description": "desc text in exercise"
+    },
+    "rowing" : "Mendayung",
+    "@rowing":{
+      "description": "data text in exercise"
+    },  
+    "rowing_desc" : "Rowing menggunakan mesin (indoor rowing) adalah olahraga yang termasuk seluruh tubuh karena melibatkan hampir semua kelompok otot besar secara bersamaan.",
+    "@rowing_desc":{
+      "description": "desc text in exercise"
+    },        
+    "stair_climbing" : "Naik Tangga",
+    "@stair_climbing":{
+      "description": "data text in exercise"
+    },  
+    "stair_climbing_desc" : "Naik tangga adalah olahraga yang terutama melibatkan bagian kaki.",
+    "@stair_climbing_desc":{
+      "description": "desc text in exercise"
+    },
+    "elliptical_desc" : "Elliptical adalah mesin kardio yang melibatkan gerakan seperti berlari atau berjalan tanpa impact langsung pada sendi.",
+    "@elliptical_desc":{
+      "description": "desc text in exercise"
+    },
+    "px_desc" : "P90X adalah program latihan intensif yang dirancang untuk melibatkan hampir seluruh tubuh.",
+    "@px_desc":{
+      "description": "desc text in exercise"
+    },
+    "muay_thai_desc" : "Muay Thai adalah olahraga bela diri yang melibatkan teknik-teknik serangan menggunakan tangan, siku, lutut, dan kaki. Olahraga ini melibatkan hampir seluruh tubuh.",
+    "@muay_thai_desc":{
+      "description": "desc text in exercise"
+    },
+    "minutes" : "Menit",
+    "@minutes":{
+      "description": "desc text in exercise"
+    },            
+    "minutes_wo" : "Masukkan Durasi (minimal 1 menit)",
+    "@minutes_wo":{
+      "description": "desc text in exercise"
+    },            
+    "see_tutorial" : "Lihat Tutorial",
+    "@see_tutorial":{
+      "description": "desc text in exercise"
+    } ,           
+    "meals_data_details" : "Detail Data Makanan",
+    "@meals_data_details":{
+      "description": "desc text in exercise"
+    },            
+    "data_details" : "Detail Data",
+    "@data_details":{
+      "description": "desc text in exercise"
+    },
+    "validation_choose_one_eat_activity" : "Silakan pilih salah satu waktu makan.",
+    "@validation_choose_one_eat_activity":{
+      "description": "Pesan error di halaman ketujuh"
+    },
+    "validation_check_your_form" : "Harap periksa dan lengkapi form anda",
+    "@validation_check_your_form":{
+      "description": "Pesan error di halaman ketujuh"
+    },             
+    "failed" : "GAGAL",
+    "@failed":{
+      "description": "Pesan error di halaman ketujuh"
+    },             
+    "please_select_a_date" : "Harap pilih tanggal",
+    "@please_select_a_date":{
+      "description": "Pesan error di halaman ketujuh"
+    },             
+    "attention" : "Perhatian",
+    "@attention":{
+      "description": "Pesan error di halaman ketujuh"
+    },             
+    "success" : "Berhasil",
+    "@success":{
+      "description": "Pesan error di halaman ketujuh"
+    },             
+    "meal_added_successfully" : "Makanan berhasil ditambahkan",
+    "@meal_added_successfully":{
+      "description": "Pesan error di halaman ketujuh"
+    },             
+    "exercise_added_successfully" : "Latihan berhasil ditambahkan",
+    "@exercise_added_successfully":{
+      "description": "Pesan error di halaman ketujuh"
+    },             
+    "exercise_status_successfully_changed" : "Status latihan berhasil diubah",
+    "@exercise_status_successfully_changed":{
+      "description": "Pesan error di halaman ketujuh"
+    },             
+    "exercise_successfully_deleted" : "Latihan berhasil dihapus",
+    "@exercise_successfully_deleted":{
+      "description": "Pesan error di halaman ketujuh"
+    },             
+    "daily_calories_successfully_deleted" : "Kalori harian berhasil dihapus",
+    "@daily_calories_successfully_deleted":{
+      "description": "Pesan error di halaman ketujuh"
+    },                                 
+    "daily_calories_added_successfully" : "Kalori harian berhasil ditambahkan",
+    "@daily_calories_added_successfully":{
+      "description": "Pesan error di halaman ketujuh"
+    },                                 
+    "login_successful" : "Login Berhasil",
+    "@login_successful":{
+      "description": "Pesan error di halaman ketujuh"
+    },                                 
+    "profile_update_successful" : "Update profil berhasil",
+    "@profile_update_successful":{
+      "description": "Pesan error di halaman ketujuh"
+    },                                 
+    "weight_added_successfully" : "Berat badan berhasil ditambahkan",
+    "@weight_added_successfully":{
+      "description": "Pesan error di halaman ketujuh"
+    },                                 
+    "daily_steps_added_successfully" : "Langkah harian berhasil ditambahkan",
+    "@daily_steps_added_successfully":{
+      "description": "Pesan error di halaman ketujuh"
+    },                                 
+    "weight_successfully_deleted" : "Berat berhasil dihapus",
+    "@weight_successfully_deleted":{
+      "description": "Pesan error di halaman ketujuh"
+    },                                 
+    "daily_exercise_successfully_added" : "Latihan harian berhasil ditambahkan",
+    "@daily_exercise_successfully_added":{
+      "description": "Pesan error di halaman ketujuh"
+    },                                 
+    "image_successfully_selected" : "Gambar berhasil dipilih",
+    "@image_successfully_selected":{
+      "description": "Pesan error di halaman ketujuh"
+    },                                 
+    "image_not_selected" : "Gambar tidak dipilih",
+    "@image_not_selected":{
+      "description": "Pesan error di halaman ketujuh"
+    },                                 
+    "data_must_be_greater_than_zero" : "Data harus lebih dari 0",
+    "@data_must_be_greater_than_zero":{
+      "description": "Pesan error di halaman ketujuh"
+    },
+    "exercise_calories_per_minute" : "Kalori Latihan per Menit",
+    "@exercise_calories_per_minute":{
+      "description": "Kalori Latihan text in addeventsPage"
+    },
+    "monday": "Senin",
+    "tuesday": "Selasa",
+    "wednesday": "Rabu",
+    "thursday": "Kamis",
+    "friday": "Jumat",
+    "saturday": "Sabtu",
+    "sunday": "Minggu",
+    "january": "Januari",
+    "february": "Februari",
+    "march": "Maret",
+    "april": "April",
+    "may": "Mei",
+    "june": "Juni",
+    "july": "Juli",
+    "august": "Agustus",
+    "september": "September",
+    "october": "Oktober",
+    "november": "November",
+    "december": "Desember",     
+    "calories_have_exceeded_the_daily_target" : "Kalori sudah melebihi target harian !", 
+    "daily_calorie_targets_are_invalid" : "Target kalori harian tidak valid!",                           
+    "snack" : "Camilan",
+    "update_content" : "Data Berhasil Diperbaharui",                               
+    "allergy_note" : "Catat Alergi Anda",                               
+    "your_allergy_notes" : "Catatan Alergi Anda",
+    "note_successfully_deleted" : "Catatan Berhasil Dihapus",
+    "note_successfully_added" : "Catatan Berhasil Ditambahkan",                                 
+    "allergy_warning" : "Peringatan Alergi!" ,
+    "allergy_warning_desc" : "Pada makanan ini, Anda memiliki alergi. Apakah Anda yakin ingin menambahkannya?" ,
+    "yes" : "Iya",                                                               
+    "no" : "Tidak",      
+    "current_body_weight" : "Berat Badan Saat Ini",
+     "tracking_saved_successfully": "Tracking Berhasil Disimpan!",
+    "total_steps" : "Total Langkah : ",
+    "calories_burned" : "Kalori Terbakar : ",
+    "time_out" : "Waktu Habis",
+    "exercise_time_is_over" : "Waktu latihan telah selesai!",
+    "done" : "Selesai",
+    "pause" : "Jeda",
+    "resume" : "Lanjutkan",
+    "no_results_found" : "Hasil tidak ditemukan",
+    "data_not_available" : "Data tidak tersedia",
+    "date_format_home" : "EEEE, d MMMM",
+    "date_format_calories" : "EEEE, d MMMM yyyy",
+    "vegetable" : "Sayur", 
+    "choose_meal_group" : "Pilih Golongan Makanan", 
+    "exercise_status" : "Status Latihan",
+    "exercise_is_complete" : "Latihan sudah selesai",
+    "exercise_is_not_yet_complete" : "Latihan belum selesai",  
+    "meal_successfully_deleted" : "Makanan berhasil dihapus",                                                                           
+    "workout_successfully_deleted" : "Latihan berhasil dihapus",                                                                                                                                                                                                                                       
+    "yo" : "thn",
+    "date_journal" : "yyyy-MM-dd",   
+    "delete_meal" : "HAPUS MAKANAN?",    
+    "are_you_sure_delete_meal" : "Apakah kamu yakin menghapus data makanan ini? Jika makanan ini dihapus maka data akan hilang permanen.",
+    "delete_exercise" : "HAPUS LATIHAN?",    
+    "are_you_sure_delete_exercise" : "Apakah kamu yakin menghapus data latihan ini? Jika latihan ini dihapus maka data akan hilang permanen.",    
+     "delete_note" : "HAPUS CATATAN?",    
+    "are_you_sure_delete_note" : "Apakah kamu yakin menghapus data catatan ini? Jika catatan ini dihapus maka data akan hilang permanen."                                                                                                                                                                                                       
+  }
